@@ -1,15 +1,15 @@
-<h1 style= "color: #77B5FE">Hi, <strong style="color: white">I'm Mohamed Djebali</strong>, a <strong style="color: white">web developer</strong> 💻 from France 🇫🇷. I'm egyptian 🇪🇬 & tunisian 🇹🇳 too. </h1>
+<h1>Hi, <strong style="color: white">I'm Mohamed Djebali</strong>, a <strong style="color: white">web developer</strong> 💻 from France 🇫🇷. I'm egyptian 🇪🇬 & tunisian 🇹🇳 too. </h1>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Nouster)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-djebali-developpeur-web/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_djebali/?hl=fr)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:djebali.mohamed88@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:djebali.mohamed88+github@gmail.com)
 <hr>
 
 &nbsp;
 
-<h2 style= "color: #77B5FE">Talking about Personal Stuffs :</h2>
+<h2>Talking about Personal Stuffs :</h2>
 <div>
 <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 </div>
@@ -19,13 +19,13 @@
 <li>🤔 I’m looking for help GIT & GITHUB 😭;</li>
 <li>💬 Ask me about anything, I am happy to help;</li>
 <li>⚡️ Fun-Fact: I love video-games & drinking beers with friends;</li>
-<li>📫 How to reach me: djebali.mohamed88@gmail.com;</li>
+<li>📫 How to reach me: djebali.mohamed88+github@gmail.com;</li>
 </ul>
 
 <hr>
 &nbsp;
 
-<h2 style = "margin-bottom : 50px; padding: 5; color:#77B5FE ">Languages and Tools :</h2>
+<h2 style = "margin-bottom : 50px; padding: 5">Languages and Tools :</h2>
 <div>
 <img src="https://img.shields.io/badge/-html-000?style=for-the-badge&logo=HTML5">
 <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6">
