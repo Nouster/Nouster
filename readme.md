@@ -16,6 +16,9 @@
 <ul style = "padding : 10px">
 <li>👨🏽‍💻 I’m currently working on (https://recrute1developpeur.github.io/)</li>
 <li>🤓 I’m currently learning jS, Angular, Swift, Swift UI, PHP, Symfony...</li>
+<li>✅ Project for psychologist =><a href = "https://maelie-richarte.fr/"> Here</a> </li>
+<li>✅ Handmade products by Raisin CERAMIC =><a href = "https://raisinceramic.com/"> Here</a></li>
+<li>✅ Group project : to learn more about ecology =><a href=""https://moregreen.fr/> Here</a></li>
 <li>🤔 I’m looking for help GIT & GITHUB 😭;</li>
 <li>💬 Ask me about anything, I am happy to help;</li>
 <li>⚡️ Fun-Fact: I love video-games & drinking beers with friends;</li>
