@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- Your title -->
 ## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
 
@@ -81,3 +82,5 @@ I created these images, feel free to use them.
   </a>
 </p>
 
+Salut les gens, comment allez-vous ?
+Moi, je vais bien.
