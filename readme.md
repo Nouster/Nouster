@@ -50,6 +50,8 @@
     <li>✅ Handmade products by Raisin CERAMIC =><a href = "https://raisinceramic.com/"> Here</a></li>
     <li>✅ Group project : to learn more about ecology =><a href=""https://moregreen.fr/> Here</a></li>
  </ul>
-<hr>
 
-! [Carte de blagues] https://readme-jokes.vercel.app/api
+<hr style="margin-bottom: 50px"> 
+
+![Carte de blagues](https://readme-jokes.vercel.app/api)
+
