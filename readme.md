@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP">
     <img src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logo=Symfony">
     <img src="https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=Angular">
-    <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sql">
+    <img src="https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma">
 </div>
 
 <hr>
