@@ -43,7 +43,7 @@
  <h2 style = "margin-bottom : 50px; margin-top: 50px;padding: 5">Completed projects :</h2>
 
 
-  <img width = "50%" src = "light.png" style = "">
+  <img width = "50%" src = "light.png" style = "margin: 0px;">
 
  <ul style = "padding-left: 15px;">
      <li>✅ Project for psychologist =><a href = "https://maelie-richarte.fr/"> Here</a> </li>
