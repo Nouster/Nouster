@@ -52,7 +52,7 @@
     <li>✅ IOS app => <a href= "https://github.com/Nouster/CinefillApp.git">Here</a></li>
  </ul>
 <a style = "color: white; font-weight: 800" href = "https://github.com/sponsors/Nouster"><img src = sponsor.png width = "10%">Support me with a donation</a>
-<hr style="margin-bottom: 50px"> 
+<hr> 
 
 ![Carte de blagues](https://readme-jokes.vercel.app/api)
 
