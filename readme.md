@@ -42,9 +42,9 @@
 
   <img width = "50%" src = "light.png" style = "margin: 0px;">
 
- <ul style = "padding-left: 15px;>
-     <li>✅ Project for restaurant =><a href = "https://www.cafedurhone.fr/"> Here</a> </li>
-    <li>✅ Group project : to learn more about ecology =><a href="https://moregreen.fr"/> Here</a></li>
+ <ul style = "padding-left: 15px;">
+    <li> ✅ Project for restaurant <a href = "https://www.cafedurhone.fr/"> Here</a> </li>
+    <li> ✅ Group project : to learn more about ecology =><a href="https://moregreen.fr"/> Here</a></li>
  </ul>
 <a style = "color: white; font-weight: 800" href = "https://github.com/sponsors/Nouster"><img src = sponsor.png width = "10%">Support me with a donation</a>
 <hr> 
