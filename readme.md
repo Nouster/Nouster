@@ -15,8 +15,6 @@
 </div>
 <ul style = "padding : 10px">
     <li>👨🏽‍💻 I’m currently working on (https://recrute1developpeur.github.io/)</li>
-    <li>🤓 I’m currently learning jS, Angular, Swift, Swift UI, PHP, Symfony...</li>
-    <li>🤔 I’m looking for help GIT & GITHUB 😭;</li>
     <li>💬 Ask me about anything, I am happy to help;</li>
         <li>⚡️ Fun-Fact: I love video-games & drinking beers with friends;</li>
     <li>📫 How to reach me: djebali.mohamed88+github@gmail.com;</li>
@@ -46,10 +44,8 @@
   <img width = "50%" src = "light.png" style = "margin: 0px;">
 
  <ul style = "padding-left: 15px;>
-     <li>✅ Project for psychologist =><a href = "https://maelie-richarte.fr/"> Here</a> </li>
-    <li>✅ Handmade products by Raisin CERAMIC =><a href = "https://raisinceramic.com/"> Here</a></li>
+     <li>✅ Project for restaurant =><a href = "https://www.cafedurhone.fr/"> Here</a> </li>
     <li>✅ Group project : to learn more about ecology =><a href="https://moregreen.fr"/> Here</a></li>
-    <li>✅ IOS app => <a href= "https://github.com/Nouster/CinefillApp.git">Here</a></li>
  </ul>
 <a style = "color: white; font-weight: 800" href = "https://github.com/sponsors/Nouster"><img src = sponsor.png width = "10%">Support me with a donation</a>
 <hr> 
