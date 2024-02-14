@@ -14,9 +14,8 @@
 <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 </div>
 <ul style = "padding : 10px">
-    <li>👨🏽‍💻 I’m currently working on (https://recrute1developpeur.github.io/)</li>
     <li>💬 Ask me about anything, I am happy to help;</li>
-        <li>⚡️ Fun-Fact: I love video-games & drinking beers with friends;</li>
+    <li>⚡️ Fun-Fact: I love video-games & drinking beers with friends;</li>
     <li>📫 How to reach me: djebali.mohamed88+github@gmail.com;</li>
 </ul>
 
