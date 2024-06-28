@@ -1,4 +1,4 @@
-<h1>Hi, <strong style="color: white">I'm Mohamed Djebali</strong>, a <strong style="color: white">web developer</strong> 💻 from France 🇫🇷. I'm egyptian 🇪🇬 & tunisian 🇹🇳 too. </h1>
+<h1>Hi, <strong style="color: white">I'm Mohamed Djebali</strong>, a <strong style="color: white">web developer</strong> 💻 from France 🇫🇷 & I'm also tunisian 🇹🇳 </h1>
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Nouster)
